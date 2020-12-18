@@ -40,6 +40,7 @@
     "gatsby-source-filesystem": "^2.3.3",
     "gatsby-transformer-remark": "^2.8.8",
     "gatsby-transformer-sharp": "^2.5.2",
+    "jshint": "^2.12.0",
     "netlify-cms-app": "^2.14.5",
     "node-sass": "^4.14.1",
     "prismjs": "^1.20.0",
